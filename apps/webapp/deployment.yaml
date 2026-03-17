@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: project01acr.azurecr.io/app:c6bc948117399d9c2f21ddd0664ca81c75de9a16
+        image: project01acr.azurecr.io/app:3d97dd31dd0cc5dfd1cc15354ac8dbc71b75c4bf
         ports:
         - containerPort: 8000
